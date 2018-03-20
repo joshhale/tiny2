@@ -17,6 +17,13 @@ function XwYpv() {
 
 // Start of generated code
 
+function boyqnljtFk() {
+    var x = ""; // Unused local variable
+}
+// End of generated code
+
+// Start of generated code
+
 function jTBbLJp() {
     var x = "";
     console.log(x);
