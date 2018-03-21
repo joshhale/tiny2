@@ -1,9 +1,7 @@
 
-
-
 // Start of generated code
 
-function jTBbLJp() {
+function AExEKqBh() {
     var x = "";
     console.log(x);
 }
@@ -11,7 +9,7 @@ function jTBbLJp() {
 
 // Start of generated code
 
-function FUbIBxv() {
+function QOttfjuUZ() {
     var x = "";
     console.log(x);
 }
@@ -19,16 +17,8 @@ function FUbIBxv() {
 
 // Start of generated code
 
-function XpQyq() {
+function wtjETSJj() {
     var x = "";
     console.log(x);
 }
 // End of generated code
-
-// Start of generated code
-
-function tDnGtoeB() {
-    var x = ""; // Unused local variable
-}
-// End of generated code
-
