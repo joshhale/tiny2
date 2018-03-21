@@ -67,12 +67,6 @@ function AfMDmx() {
 }
 // End of generated code
 
-// Start of generated code
-
-function sfOfgJcnBn() {
-    var x = ""; // Unused local variable
-}
-// End of generated code
 
 // Start of generated code
 
