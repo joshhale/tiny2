@@ -19,6 +19,13 @@ function XpQyq() {
 
 // Start of generated code
 
+function tDnGtoeB() {
+    var x = ""; // Unused local variable
+}
+// End of generated code
+
+// Start of generated code
+
 function cSqyUY() {
     var x = ""; // Unused local variable
 }
