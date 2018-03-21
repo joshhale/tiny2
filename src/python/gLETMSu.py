@@ -21,3 +21,11 @@ def wsvbrD(arg):
     f = open(arg) # Unclosed file handle
 
 # End of generated code
+
+# Start of generated code
+
+def oySzZ(arg):
+    print 'randstring0 ' + arg
+    f = open(arg) # Unclosed file handle
+
+# End of generated code
