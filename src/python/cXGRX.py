@@ -1,10 +1,4 @@
 
-# Start of generated code
-
-def NlsQPrpJT(arg):
-    print 'randstring0 ' + arg
-
-# End of generated code
 
 # Start of generated code
 
