@@ -46,6 +46,13 @@ function AfMDmx() {
 
 // Start of generated code
 
+function sfOfgJcnBn() {
+    var x = ""; // Unused local variable
+}
+// End of generated code
+
+// Start of generated code
+
 function Absjq() {
     var x = "";
     console.log(x);
