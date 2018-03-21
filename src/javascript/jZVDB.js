@@ -6,13 +6,6 @@ function srwqyYIn() {
 }
 // End of generated code
 
-// Start of generated code
-
-function SCqlDBKAno() {
-    var x = "";
-    console.log(x);
-}
-// End of generated code
 
 // Start of generated code
 
