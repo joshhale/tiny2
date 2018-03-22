@@ -1,10 +1,5 @@
 
-# Start of generated code
 
-def ouSUH(arg):
-    print 'randstring0 ' + arg
-
-# End of generated code
 
 # Start of generated code
 
@@ -17,7 +12,7 @@ def ysVSAQdzC(arg):
 
 # Start of generated code
 
-def RgGEG(arg):
+def aRmxCx(arg):
     print 'randstring0 ' + arg
 
 # End of generated code
