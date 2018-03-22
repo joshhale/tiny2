@@ -60,10 +60,4 @@ function tSHjQ() {
 }
 // End of generated code
 
-// Start of generated code
-
-function eFGwpySGL() {
-    var x = ""; // Unused local variable
-}
-// End of generated code
 
