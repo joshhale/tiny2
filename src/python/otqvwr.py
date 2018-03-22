@@ -8,6 +8,13 @@ def HxPCqs(arg):
 
 # Start of generated code
 
+def GXpnN(arg):
+    print 'randstring0 ' + arg
+
+# End of generated code
+
+# Start of generated code
+
 def WzTMVH(arg):
     print 'randstring0 ' + arg
     f = open(arg) # Unclosed file handle
