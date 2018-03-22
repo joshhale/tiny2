@@ -13,29 +13,6 @@ def gmglYl(arg):
 
 # End of generated code
 
-# Start of generated code
-
-def bHApLSYxT(arg):
-    print 'randstring0 ' + arg
-    f = open(arg) # Unclosed file handle
-
-# End of generated code
-
-# Start of generated code
-
-def dvHltCa(arg):
-    print 'randstring0 ' + arg
-    f = open(arg) # Unclosed file handle
-
-# End of generated code
-
-# Start of generated code
-
-def aQZAPmW(arg):
-    print 'randstring0 ' + arg
-    f = open(arg) # Unclosed file handle
-
-# End of generated code
 
 # Start of generated code
 
