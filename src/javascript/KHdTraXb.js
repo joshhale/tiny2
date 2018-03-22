@@ -46,6 +46,13 @@ function JSrEmvlr() {
 
 // Start of generated code
 
+function mlcpuX() {
+    var x = ""; // Unused local variable
+}
+// End of generated code
+
+// Start of generated code
+
 function IBFuf() {
     var x = "";
     console.log(x);
