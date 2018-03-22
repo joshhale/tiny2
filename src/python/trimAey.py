@@ -8,9 +8,3 @@ def ouSUH(arg):
 
 
 
-# Start of generated code
-
-def RgGEG(arg):
-    print 'randstring0 ' + arg
-
-# End of generated code
