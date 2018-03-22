@@ -15,13 +15,6 @@ function XDuTGFaPeW() {
 }
 // End of generated code
 
-// Start of generated code
-
-function IqarZFNURk() {
-    var x = "";
-    console.log(x);
-}
-// End of generated code
 
 // Start of generated code
 
