@@ -15,12 +15,6 @@ def ctaadJYgV(arg):
 
 # End of generated code
 
-# Start of generated code
-
-def dturA(arg):
-    print 'randstring0 ' + arg
-
-# End of generated code
 
 # Start of generated code
 
@@ -33,6 +27,13 @@ def nmyGrSDp(arg):
 # Start of generated code
 
 def qiIDA(arg):
+    print 'randstring0 ' + arg
+
+# End of generated code
+
+# Start of generated code
+
+def KpbionTQO(arg):
     print 'randstring0 ' + arg
 
 # End of generated code
@@ -60,9 +61,3 @@ def wZwgc(arg):
 # End of generated code
 
 
-# Start of generated code
-
-def MUinJS(arg):
-    print 'randstring0 ' + arg
-
-# End of generated code
