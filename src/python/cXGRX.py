@@ -61,17 +61,3 @@ def wZwgc(arg):
 # End of generated code
 
 
-# Start of generated code
-
-def MUinJS(arg):
-    print 'randstring0 ' + arg
-
-# End of generated code
-
-# Start of generated code
-
-def ekRQm(arg):
-    print 'randstring0 ' + arg
-    f = open(arg) # Unclosed file handle
-
-# End of generated code
