@@ -22,6 +22,13 @@ def NZAcLDfM(arg):
 
 # Start of generated code
 
+def THfpnQZV(arg):
+    print 'randstring0 ' + arg
+
+# End of generated code
+
+# Start of generated code
+
 def xTeoH(arg):
     print 'randstring0 ' + arg
 
