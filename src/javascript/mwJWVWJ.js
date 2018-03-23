@@ -6,12 +6,6 @@ function KSVeTWZILv() {
 }
 // End of generated code
 
-// Start of generated code
-
-function iSYeOzwmn() {
-    var x = ""; // Unused local variable
-}
-// End of generated code
 
 // Start of generated code
 
