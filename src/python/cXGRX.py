@@ -40,18 +40,19 @@ def KpbionTQO(arg):
 
 # Start of generated code
 
-def TkhkG(arg):
+def MAVmss(arg):
     print 'randstring0 ' + arg
+    f = open(arg) # Unclosed file handle
 
 # End of generated code
 
 # Start of generated code
 
-def SYfAhxRD(arg):
+def TkhkG(arg):
     print 'randstring0 ' + arg
-    f = open(arg) # Unclosed file handle
 
 # End of generated code
+
 
 # Start of generated code
 
