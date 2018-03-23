@@ -45,6 +45,13 @@ def SYfAhxRD(arg):
 
 # End of generated code
 
+# Start of generated code
+
+def wZwgc(arg):
+    print 'randstring0 ' + arg
+
+# End of generated code
+
 
 # Start of generated code
 
