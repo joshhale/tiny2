@@ -8,6 +8,13 @@ function KSVeTWZILv() {
 
 // Start of generated code
 
+function iSYeOzwmn() {
+    var x = ""; // Unused local variable
+}
+// End of generated code
+
+// Start of generated code
+
 function WuTdbGqb() {
     var x = "";
     console.log(x);
